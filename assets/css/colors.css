@@ -1,0 +1,34 @@
+@import url(variables.css);
+.light
+{
+    background-color: var(--base-bg-color);
+    color: var(--base-text-color);
+}
+.bg-base
+{
+    background-color: var(--base-bg-color);
+}
+.bg-secondary
+{
+    background-color: var(--secondary-bg-color);
+}
+.text-base
+{
+    color: var(--base-text-color);
+}
+.text-secondary
+{
+    color: var(--secondary-text-color);
+}
+.link
+{
+    color: var(--base-link-color);
+}
+.link:visited
+{
+    color: var(--visited-link-color);
+}
+.divide
+{
+    background-color: var(--ternary-bg-color);
+}

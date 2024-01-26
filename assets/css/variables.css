@@ -1,0 +1,22 @@
+:root
+{
+    /* Secondary colors for dark mode */
+    
+    /* Text Colors */
+    --base-text-color : rgb(10 12 15);
+    --secondary-text-color: rgb(100 120 150);
+
+    /* Background Colors */
+    --base-bg-color: rgb(255 251 235);
+    --secondary-bg-color: rgb(20 25 30);
+    --ternary-bg-color: rgb(66 32 6);
+
+    /* Link Colors */
+    --base-link-color: rgb(66 32 6);
+    --visited-link-color: rgb(31, 15, 3);
+
+    /* Text Sizing */
+    --base-text-size : 14px;
+    --normal-text-size: 16px;
+    --base-header-size: 18px;
+}
